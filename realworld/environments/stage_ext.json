@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "dporealstageext.gateway.webmethodscloud.de",
+			"value": "dporealstageext.apigw-aw-eu.webmethods.io",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "dporealstageext.gateway.webmethodscloud.de",
+			"value": "dporealstageext.apigw-aw-eu.webmethods.io",
 			"type": "text",
 			"enabled": true
 		},

@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "dpoplaystageint.gateway.webmethodscloud.de",
+			"value": "dpoplaystageint.apigw-aw-eu.webmethods.io",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "dpoplaystageint.gateway.webmethodscloud.de",
+			"value": "dpoplaystageint.apigw-aw-eu.webmethods.io",
 			"type": "text",
 			"enabled": true
 		},

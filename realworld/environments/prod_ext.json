@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "dporealprodext.gateway.webmethodscloud.de",
+			"value": "dporealprodext.apigw-aw-eu.webmethods.io",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "dporealprodext.gateway.webmethodscloud.de",
+			"value": "dporealprodext.apigw-aw-eu.webmethods.io",
 			"type": "text",
 			"enabled": true
 		},

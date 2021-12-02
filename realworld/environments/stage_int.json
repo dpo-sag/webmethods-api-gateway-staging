@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "realstageint.gateway.webmethodscloud.de",
+			"value": "realstageint.apigw-aw-eu.webmethods.io",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "realstageint.gateway.webmethodscloud.de",
+			"value": "realstageint.apigw-aw-eu.webmethods.io",
 			"type": "text",
 			"enabled": true
 		},

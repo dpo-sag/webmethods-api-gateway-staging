@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "dporealconfig.gateway.webmethodscloud.de",
+			"value": "dporealconfig.apigw-aw-eu.webmethods.io",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "dporealconfig.gateway.webmethodscloud.de",
+			"value": "dporealconfig.apigw-aw-eu.webmethods.io",
 			"type": "text",
 			"enabled": true
 		},
