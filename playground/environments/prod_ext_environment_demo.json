@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "thesprodext.gateway.webmethodscloud.de",
+			"value": "dpoplayprodext.gateway.webmethodscloud.de",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "thesprodext.gateway.webmethodscloud.de",
+			"value": "dpoplayprodext.gateway.webmethodscloud.de",
 			"type": "text",
 			"enabled": true
 		},

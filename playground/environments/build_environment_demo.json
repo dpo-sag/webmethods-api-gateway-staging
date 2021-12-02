@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "thesbuild.gateway.webmethodscloud.de",
+			"value": "dpoplaybuild.gateway.webmethodscloud.de",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "thesbuild.gateway.webmethodscloud.de",
+			"value": "dpoplaybuild.gateway.webmethodscloud.de",
 			"type": "text",
 			"enabled": true
 		},
