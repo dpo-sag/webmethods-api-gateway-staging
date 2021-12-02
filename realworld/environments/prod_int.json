@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "realprodint.gateway.webmethodscloud.de",
+			"value": "dporealprodint.gateway.webmethodscloud.de",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "realprodint.gateway.webmethodscloud.de",
+			"value": "dporealprodint.gateway.webmethodscloud.de",
 			"type": "text",
 			"enabled": true
 		},

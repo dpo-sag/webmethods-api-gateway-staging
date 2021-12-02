@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "realstageext.gateway.webmethodscloud.de",
+			"value": "dporealstageext.gateway.webmethodscloud.de",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "realstageext.gateway.webmethodscloud.de",
+			"value": "dporealstageext.gateway.webmethodscloud.de",
 			"type": "text",
 			"enabled": true
 		},

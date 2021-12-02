@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "realdevext.gateway.webmethodscloud.de",
+			"value": "dporealdevext.gateway.webmethodscloud.de",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "realdevext.gateway.webmethodscloud.de",
+			"value": "dporealdevext.gateway.webmethodscloud.de",
 			"type": "text",
 			"enabled": true
 		},
