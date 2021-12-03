@@ -13,7 +13,7 @@
     "values" : [ "true" ]
   }, {
     "templateKey" : "storeAsZip",
-    "values" : [ "false" ]
+    "values" : [ "true" ]
   }, {
     "templateKey" : "logGenerationFrequency",
     "values" : [ "Always" ]
